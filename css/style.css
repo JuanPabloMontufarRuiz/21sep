@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(rgba(73, 87, 5, 0.627), rgba(0, 0, 0, 0.33)), url("/background.gif");
+    background-image: linear-gradient(rgba(73, 87, 5, 0.627), rgba(0, 0, 0, 0.33)), url("/img/background.gif");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
